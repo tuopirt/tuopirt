@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m Harrison Zhou, an aspiring **Software Engineer** with a strong interest in **Generative AI**, **systems design**, and **solution engineering**.
+
+I enjoy building impactful tools that solve real-world problems, especially those that blend AI with clean, modular architecture.
+
+### 📫 My Connections
+- 🌐 [LinkedIn](https://www.linkedin.com/in/hz02)
+- ✉️ harryzhou.ca@gmail.com
+
+Thanks for stopping by!
